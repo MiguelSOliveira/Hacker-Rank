@@ -1,36 +1,6 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-/*
- * Sample Input : 01
-
-	aaabbbb
-	Sample Output : 01
-	
-	YES
-	Explanation 
-	A palindrome permutation of the given string is bbaaabb. 
-	
-	Sample Input : 02
-	
-	cdefghmnopqrstuvw
-	Sample Output : 02
-	
-	NO
-	Explanation 
-	You can verify that the given string has no palindrome permutation. 
-	
-	Sample Input : 03
-	
-	cdcdcdcdeeeef
-	Sample Output : 03
-	
-	YES
-	Explanation 
- *	A palindrome permutation of the given string is ddcceefeeccdd .
- */
-
-
 public class GameOfThrones_I {
 
 	public static void main(String[] args) {
