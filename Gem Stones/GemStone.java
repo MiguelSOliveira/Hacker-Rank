@@ -15,7 +15,7 @@ import java.util.Scanner;
  */
 
 
-public class GemStones {
+public class GemStone {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
